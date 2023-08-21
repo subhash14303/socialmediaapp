@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774029740174",
+    "project_id": "peeppal-final",
+    "storage_bucket": "peeppal-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774029740174:android:0ab1120094d81834fa61df",
+        "android_client_info": {
+          "package_name": "com.example.peeppalfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774029740174-1uf9aqk2uh3hoq0dc467ii327hsobjep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBXAdKSHaH3Mlv1Y90PQAKP-NyOT0_N-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774029740174-1uf9aqk2uh3hoq0dc467ii327hsobjep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
